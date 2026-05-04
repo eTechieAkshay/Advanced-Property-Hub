@@ -10,7 +10,7 @@ A high-performance, full-stack Real Estate Management System designed to streaml
 - **Secure Backend:** Robust data validation and optimized MySQL queries.
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, Vanilla JavaScript, Custom CSS (No Frameworks)
+- **Frontend:** HTML5,JavaScript, Custom CSS (No Frameworks)
 - **Backend:** PHP
 - **Database:** MySQL
 - **Environment:** XAMPP / WAMP
